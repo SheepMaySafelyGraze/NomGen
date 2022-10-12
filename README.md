@@ -1,2 +1,2 @@
 # NomGen
-An burgeoning R package to generate correlated nominal data.
+A burgeoning R package to generate correlated nominal data.
